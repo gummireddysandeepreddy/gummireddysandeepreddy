@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gummireddysandeepreddy
 - 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and Web Development
 - 💞️ I’m looking to collaborate on Proects
 - 📫 How to reach me ... gummireddysandeepreddy@gmail.com
 - 😄 Pronouns: He/Him
