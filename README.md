@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @gummireddysandeepreddy
-- 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Machine Learning and Web Development
-- 💞️ I’m looking to collaborate on Proects
-- 📫 How to reach me ... gummireddysandeepreddy@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+### Hi there 👋  I’m Venkata Sandeep Reddy Gummireddy
 
-<!---
-gummireddysandeepreddy/gummireddysandeepreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### My GitHub stats 📊
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gummireddysandeepreddy&show_icons=true&custom_title=My%20GitHub%20Stats&hide=stars&theme=dark)][stats]
+[![Sandeep's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gummireddysandeepreddy&layout=compact&langs_count=6&hide=shell,Jupyter%20Notebook&theme=dark)][langs]
+
+<!-- link references -->
+[stats]: https://github.com/anuraghazra/github-readme-stats#github-stats-card
+[langs]: https://github.com/anuraghazra/github-readme-stats#top-languages-card
