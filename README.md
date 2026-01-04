@@ -7,3 +7,6 @@
 <!-- link references -->
 [stats]: https://github.com/anuraghazra/github-readme-stats#github-stats-card
 [langs]: https://github.com/anuraghazra/github-readme-stats#top-languages-card
+### 🌐 Join Me on CoderLegion
+
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/G+Venkata+Sandeep+Reddy) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/G+Venkata+Sandeep+Reddy)
